@@ -16,10 +16,8 @@ The Vehicle Parking Management System (VPMS) is a web-based PHP/MySQL applicatio
 ## ✅ Requirements
 
 - XAMPP or any Apache server with PHP & MySQL  
-- PHP 7.x or higher  
+- PHP 7 or higher  
 - A browser to run the app  
-
-## 📂 Folder Structure
 
 
 
