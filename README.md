@@ -1,21 +1,25 @@
 # Vehicle-Parking-Management-System
 # Vehicle Parking Management System (VPMS)
 
-A simple PHP-MySQL based Vehicle Parking Management System.
+The Vehicle Parking Management System (VPMS) is a web-based PHP/MySQL application that helps manage parking operations efficiently. 
 
-## 🚀 How to Run the Project
+## 🔧 How to Run the Project
 
-Follow the steps below to set up the project on your local machine:
+1. **Download** the project zip file and **extract** it.  
+2. Copy the `vpms` folder from the extracted files.  
+3. Paste it inside the web server's root directory (`xampp/htdocs` for XAMPP users).  
+4. Open your browser and go to [http://localhost/phpmyadmin](http://localhost/phpmyadmin).  
+5. Create a new database named `vpmsdb`.  
+6. Import the `vpmsdb.sql` file located in the `SQL file` folder inside the zip package.  
+7. Now, run the application by visiting [http://localhost/vpms](http://localhost/vpms) in your browser.  
 
-### 1. Download the Project
-- Download the ZIP file of the project from the repository.
+## ✅ Requirements
 
-### 2. Extract Files
-- Extract the ZIP file.
-- Locate and copy the `vpms` folder.
+- XAMPP or any Apache server with PHP & MySQL  
+- PHP 7.x or higher  
+- A browser to run the app  
 
-### 3. Move to Server Directory
-- Paste the `vpms` folder into your local server’s root directory.
+## 📂 Folder Structure
 
-  Example (for **XAMPP** users):
+
 
